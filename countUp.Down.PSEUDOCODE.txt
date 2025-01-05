@@ -1,0 +1,21 @@
+Pseudocode:
+
+BEGIN
+
+Include necessary libraries
+-iostream
+-thread
+
+Define the function for counting up
+-countUp, to 20
+Define the function for counting down
+-countDown, 20 to 0
+
+Create two threads for the counting functions
+-thread1, Count Up
+(Enusure it finishes prior to next thread)
+-thread2, Count Down
+
+Return success
+
+END
